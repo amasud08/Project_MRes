@@ -1,2 +1,4 @@
 geemap_explore.ipynb
 LULC_GEEMAP.ipynb
+**/*.ipynb_checkpoints/
+data/input_data/admin_boundaries/*
